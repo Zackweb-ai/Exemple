@@ -1,0 +1,29 @@
+body{
+    background-image: url(back.jpg);
+
+}
+
+.sc{
+    color: red;
+}
+p{
+    text-align: justify;
+    text-indent: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Arial, sans-serif;
+}
+.title1{
+    text-align: center;
+    text-decoration: underline wavy;
+    background-color: #fdfdfd    ;
+}
+.ch{
+    font-weight: bold;
+    text-decoration:underline;
+    color: rgb(205, 92, 92)    ;
+    background-color: #fdfdfd;
+
+}
+footer p{
+    text-align: center;
+    height: 50px;
+}
